@@ -3,8 +3,8 @@
 @import url(../place/__paragraph/place__paragraph.css);
 @import url(../place/__image/place__image.css);
 @import url(../place/__website/place__website.css);
-@import url(../place/__website/__link/place__website__link.css);
-@import url(../place/__website/__url-heading/place__website__url-heading.css);
+@import url(../place/__link/place__website__link.css);
+@import url(../place/__url-heading/place__website__url-heading.css);
 
 .place {
     display: grid;

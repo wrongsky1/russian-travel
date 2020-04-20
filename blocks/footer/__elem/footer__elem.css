@@ -1,0 +1,17 @@
+.footer__elem {
+    margin-left: 18px;
+}
+
+.footer__elem:first-child {
+    margin: 0;
+}
+
+@media screen and (max-width: 760px) {
+    .footer__elem {
+        margin: 32px 0 0;
+    }
+    
+    .footer__elem:first-child {
+        margin-top: 0;
+    }
+}

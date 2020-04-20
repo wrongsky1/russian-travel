@@ -2,12 +2,12 @@
     max-width: 456px;
     margin: 0;
     margin-bottom: 12px;
-    font-family: Inter;
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 12px;
     line-height: 12px;
-    /* identical to box height, or 100% */
     letter-spacing: 0.2em;
+    text-transform: uppercase;
     color: #AAAAAA;
 }
